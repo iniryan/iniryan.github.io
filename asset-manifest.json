@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/iniryan.github.io/static/css/main.865228eb.chunk.css",
+    "main.js": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js",
+    "main.js.map": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js.map",
+    "runtime-main.js": "/iniryan.github.io/static/js/runtime-main.4ce89332.js",
+    "runtime-main.js.map": "/iniryan.github.io/static/js/runtime-main.4ce89332.js.map",
+    "static/js/2.fa2c4e1e.chunk.js": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js",
+    "static/js/2.fa2c4e1e.chunk.js.map": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js.map",
+    "index.html": "/iniryan.github.io/index.html",
+    "static/css/main.865228eb.chunk.css.map": "/iniryan.github.io/static/css/main.865228eb.chunk.css.map",
+    "static/js/2.fa2c4e1e.chunk.js.LICENSE.txt": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js.LICENSE.txt",
+    "static/media/A4.97f3d922.pdf": "/iniryan.github.io/static/media/A4.97f3d922.pdf",
+    "static/media/About.css": "/iniryan.github.io/static/media/About.7aeb632c.png",
+    "static/media/Contact.css": "/iniryan.github.io/static/media/Contact.313ff4f1.png",
+    "static/media/Project.css": "/iniryan.github.io/static/media/Project.69b0c997.png",
+    "static/media/Service.css": "/iniryan.github.io/static/media/Service.b4caac8b.png",
+    "static/media/aboutme-dark.070dd77f.webp": "/iniryan.github.io/static/media/aboutme-dark.070dd77f.webp",
+    "static/media/aboutme.e3ad1e59.webp": "/iniryan.github.io/static/media/aboutme.e3ad1e59.webp",
+    "static/media/chatapp.21f7bd44.png": "/iniryan.github.io/static/media/chatapp.21f7bd44.png",
+    "static/media/ip11.f84605d4.png": "/iniryan.github.io/static/media/ip11.f84605d4.png",
+    "static/media/javamap-dark.05085369.png": "/iniryan.github.io/static/media/javamap-dark.05085369.png",
+    "static/media/javamap.a4cf228b.png": "/iniryan.github.io/static/media/javamap.a4cf228b.png",
+    "static/media/me-dark.d5e0f371.webp": "/iniryan.github.io/static/media/me-dark.d5e0f371.webp",
+    "static/media/me.144fe787.webp": "/iniryan.github.io/static/media/me.144fe787.webp",
+    "static/media/mejapintar.b41c34c9.png": "/iniryan.github.io/static/media/mejapintar.b41c34c9.png",
+    "static/media/menu.1da2a17b.svg": "/iniryan.github.io/static/media/menu.1da2a17b.svg",
+    "static/media/night.f6dd76d6.svg": "/iniryan.github.io/static/media/night.f6dd76d6.svg",
+    "static/media/pepsi.d89af24e.png": "/iniryan.github.io/static/media/pepsi.d89af24e.png",
+    "static/media/sun.5294b2bc.svg": "/iniryan.github.io/static/media/sun.5294b2bc.svg",
+    "static/media/up-arrow-circle.c73c7001.svg": "/iniryan.github.io/static/media/up-arrow-circle.c73c7001.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ce89332.js",
+    "static/js/2.fa2c4e1e.chunk.js",
+    "static/css/main.865228eb.chunk.css",
+    "static/js/main.9f5b9bcd.chunk.js"
+  ]
+}
