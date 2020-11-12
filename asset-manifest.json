@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/iniryan.github.io/static/css/main.865228eb.chunk.css",
+    "main.css": "/iniryan.github.io/static/css/main.33a52dbb.chunk.css",
     "main.js": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js",
     "main.js.map": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js.map",
     "runtime-main.js": "/iniryan.github.io/static/js/runtime-main.4ce89332.js",
@@ -8,7 +8,7 @@
     "static/js/2.fa2c4e1e.chunk.js": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js",
     "static/js/2.fa2c4e1e.chunk.js.map": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js.map",
     "index.html": "/iniryan.github.io/index.html",
-    "static/css/main.865228eb.chunk.css.map": "/iniryan.github.io/static/css/main.865228eb.chunk.css.map",
+    "static/css/main.33a52dbb.chunk.css.map": "/iniryan.github.io/static/css/main.33a52dbb.chunk.css.map",
     "static/js/2.fa2c4e1e.chunk.js.LICENSE.txt": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js.LICENSE.txt",
     "static/media/A4.97f3d922.pdf": "/iniryan.github.io/static/media/A4.97f3d922.pdf",
     "static/media/About.css": "/iniryan.github.io/static/media/About.7aeb632c.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.4ce89332.js",
     "static/js/2.fa2c4e1e.chunk.js",
-    "static/css/main.865228eb.chunk.css",
+    "static/css/main.33a52dbb.chunk.css",
     "static/js/main.9f5b9bcd.chunk.js"
   ]
 }
