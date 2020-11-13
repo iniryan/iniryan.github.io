@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iniryan.github.io/static/css/main.33a52dbb.chunk.css",
-    "main.js": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js",
-    "main.js.map": "/iniryan.github.io/static/js/main.9f5b9bcd.chunk.js.map",
+    "main.js": "/iniryan.github.io/static/js/main.bfd3f849.chunk.js",
+    "main.js.map": "/iniryan.github.io/static/js/main.bfd3f849.chunk.js.map",
     "runtime-main.js": "/iniryan.github.io/static/js/runtime-main.4ce89332.js",
     "runtime-main.js.map": "/iniryan.github.io/static/js/runtime-main.4ce89332.js.map",
     "static/js/2.fa2c4e1e.chunk.js": "/iniryan.github.io/static/js/2.fa2c4e1e.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.4ce89332.js",
     "static/js/2.fa2c4e1e.chunk.js",
     "static/css/main.33a52dbb.chunk.css",
-    "static/js/main.9f5b9bcd.chunk.js"
+    "static/js/main.bfd3f849.chunk.js"
   ]
 }
