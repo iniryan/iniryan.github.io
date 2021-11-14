@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.1b442914.chunk.css",
-    "main.js": "./static/js/main.a5c0bd29.chunk.js",
-    "main.js.map": "./static/js/main.a5c0bd29.chunk.js.map",
+    "main.js": "./static/js/main.7ae02d05.chunk.js",
+    "main.js.map": "./static/js/main.7ae02d05.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f38a1e21.js",
     "runtime-main.js.map": "./static/js/runtime-main.f38a1e21.js.map",
     "static/js/2.b31238bd.chunk.js": "./static/js/2.b31238bd.chunk.js",
@@ -11,8 +11,8 @@
     "static/css/main.1b442914.chunk.css.map": "./static/css/main.1b442914.chunk.css.map",
     "static/js/2.b31238bd.chunk.js.LICENSE.txt": "./static/js/2.b31238bd.chunk.js.LICENSE.txt",
     "static/media/About.css": "./static/media/About.7aeb632c.png",
-    "static/media/CV-RyanAdiSaputra.b717200b.pdf": "./static/media/CV-RyanAdiSaputra.b717200b.pdf",
     "static/media/Contact.css": "./static/media/Contact.313ff4f1.png",
+    "static/media/Portfolio-RyanAdiSaputra.02da3a27.pdf": "./static/media/Portfolio-RyanAdiSaputra.02da3a27.pdf",
     "static/media/Project.css": "./static/media/Project.69b0c997.png",
     "static/media/Service.css": "./static/media/Service.b4caac8b.png",
     "static/media/aboutme-dark.070dd77f.webp": "./static/media/aboutme-dark.070dd77f.webp",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.f38a1e21.js",
     "static/js/2.b31238bd.chunk.js",
     "static/css/main.1b442914.chunk.css",
-    "static/js/main.a5c0bd29.chunk.js"
+    "static/js/main.7ae02d05.chunk.js"
   ]
 }
